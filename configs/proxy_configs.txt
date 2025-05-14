@@ -1,0 +1,14 @@
+//profile-title: base64:8J+RvUFub255bW91cy3wnZWP
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/BXAMbot
+//profile-web-page-url: https://github.com/4n0nymou3
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@107.172.235.75:44789/?sni=dxobg4azmk.gafnode.sbs#LosAngeles-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@23.132.228.217:21567/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
+
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@85.235.205.212:36012/?sni=dxobg4azmk.gafnode.sbs#Moscow-GetAFreeNode
+
