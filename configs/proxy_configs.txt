@@ -8,7 +8,5 @@ hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@107.172.235.75:56381/?sni=dxobg
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:53684/?sni=dxobg4azmk.gafnode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@23.132.228.217:40190/?sni=dxobg4azmk.gafnode.sbs#Como-GetAFreeNode
-
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@85.235.205.212:56410/?sni=dxobg4azmk.gafnode.sbs#SaintPetersburg-GetAFreeNode
 
